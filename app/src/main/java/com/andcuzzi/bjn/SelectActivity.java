@@ -18,5 +18,7 @@ public class SelectActivity extends AppCompatActivity {
         setContentView(R.layout.activity_select);
 
         //Test
+
+        // test2
     }
 }
